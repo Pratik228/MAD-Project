@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "143611216296",
+    "project_id": "mini-project-food-management",
+    "storage_bucket": "mini-project-food-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143611216296:android:44024adfb771c01185dd9d",
+        "android_client_info": {
+          "package_name": "com.example.miniprojectfoodwarehousemanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143611216296-1c4scn4ecrtsrdp548c2g699pcj651gv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAoxXZdkNvmv9ZBDxOSVE8CZL5LTD2e4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143611216296-1c4scn4ecrtsrdp548c2g699pcj651gv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
